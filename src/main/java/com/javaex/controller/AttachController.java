@@ -28,12 +28,7 @@ public class AttachController {
 		return JsonResult.success(saveName);
 
 	}
-	
-	
-	
-	
-	
-	
+
 	
 	
 	
